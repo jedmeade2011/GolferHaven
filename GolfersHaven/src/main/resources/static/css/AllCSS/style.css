@@ -1,0 +1,68 @@
+
+.container-fluid{
+	background-color:#f1f1f3;
+	font-family:  Helvetica;
+	height: max-content;
+}
+ .navy{
+	margin-left: 300px;
+}
+.searchForm{
+	margin-left: 600px;
+} 
+.head{
+	color: rgba(109, 146, 109, 0.693);
+}
+ .tableOne{
+	background-color: rgba(109, 146, 109, 0.693);
+}
+ .tableTwo{
+	background-color: rgba(109, 146, 109, 0.693);
+}
+.navbar{
+	background-color: rgba(109, 146, 109, 0.693);
+}
+.tableOne, th{
+	color: #f0f0f1;
+}
+.tableThree{
+	background-color:rgba(109, 146, 109, 0.693);
+	width: 600px;
+}
+ .tableOne, td{
+	color: #f0f0f1;
+}
+.tableOne, td, a{
+	color:  #f0f0f1;
+}
+.tableFour{
+	background-color: rgba(109, 146, 109, 0.693);
+}
+.container-fluid, h3{
+	color: black;
+}
+.container-fluid, a{
+	text-decoration: none;
+}
+.para{
+	margin-top: 4px;
+	margin-left: 7px;
+}
+.logout{
+	margin-top: 4px;
+}
+.my-custom-scrollbar {
+position: relative;
+height: 500px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+.my-custom-scrollbar2 {
+position: relative;
+height: 400px;
+overflow: auto;
+}
+/* 'Times New Roman', Times, serif */
+/* #008000 */
